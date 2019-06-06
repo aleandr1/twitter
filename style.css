@@ -1,0 +1,15 @@
+.red{
+	height: 100px;
+}
+.red1{
+	height: 1400px;
+}
+a{
+	text-decoration: none;
+}
+.block{
+	display: flex;
+}
+.text{
+	font-size: 9px;
+}
